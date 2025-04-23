@@ -1,5 +1,5 @@
 import subprocess
-# no the commit script is not working for commit message
+# yes it works for commit message but toke some time to show on contribution graph
 def run_command(command):
     try:
         # Run the command and capture output
