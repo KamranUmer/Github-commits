@@ -1,5 +1,5 @@
 import subprocess
-# this should commit the changes to the git repository
+# changed the email to gmail for commit
 def run_command(command):
     try:
         # Run the command and capture output
