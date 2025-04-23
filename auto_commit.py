@@ -1,5 +1,5 @@
 import subprocess
-# now lets test that the auto commit script works or not 
+# no the commit script is not working for commit message
 def run_command(command):
     try:
         # Run the command and capture output
