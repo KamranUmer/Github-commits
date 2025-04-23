@@ -1,5 +1,5 @@
 import subprocess
-
+# I think this not worked for commit message
 def run_command(command):
     try:
         # Run the command and capture output
