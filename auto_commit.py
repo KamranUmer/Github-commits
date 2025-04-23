@@ -1,5 +1,5 @@
 import subprocess
-# changed the email to gmail for commit
+# now lets test that the auto commit script works or not 
 def run_command(command):
     try:
         # Run the command and capture output
