@@ -1,5 +1,6 @@
 import subprocess
 # yes it works for commit message but toke some time to show on contribution graph
+# it works but need to do it auto matically via agent
 def run_command(command):
     try:
         # Run the command and capture output
