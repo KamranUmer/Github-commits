@@ -5,6 +5,7 @@ import subprocess
 # and there will be check condition if no changes so the bot will write something and then commit it
 # contribution commit 1
 # contribution commit 2
+# contribution commit 3
 def run_command(command):
     try:
         # Run the command and capture output
