@@ -4,6 +4,7 @@ import subprocess
 # one another thing to be add it should check my work dally that it should be automatically commits my data every day
 # and there will be check condition if no changes so the bot will write something and then commit it
 # contribution commit 1
+# contribution commit 2
 def run_command(command):
     try:
         # Run the command and capture output
