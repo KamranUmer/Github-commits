@@ -3,10 +3,8 @@ import subprocess
 # it works but need to do it auto matically via agent
 # one another thing to be add it should check my work dally that it should be automatically commits my data every day
 # and there will be check condition if no changes so the bot will write something and then commit it
-# contribution commit 1
-# contribution commit 2
-# contribution commit 3
-# contribution commit 4
+# contribution commit 01
+
 def run_command(command):
     try:
         # Run the command and capture output
